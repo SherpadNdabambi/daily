@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "7779c79836c26294",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2078f1aa8243408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "956d8c1fa2cd81cc",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Personal/Days/2024-09-26.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac85e2dfc36360c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "82d7f839fa37d879",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b9f95e72f2caf6de",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "911c36f8b3f78638",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "93326d50629adc62",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "b71d75e32cbb51dd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "4bf498ddad8f6619",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "575fe9e0dbdac472",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Personal/Days/2024-09-26.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "af27b8eef181e3b4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Personal/Days/2024-09-26.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7f8101efa2f2bedd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Personal/Days/2024-09-26.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "956d8c1fa2cd81cc",
+  "lastOpenFiles": [
+    "Personal/Daily Routine Template.md",
+    "Personal/Days/2024-09-26.md",
+    "Personal/Days/2024-09-25.md",
+    "Candlesticks/2024-09-25.md",
+    "Candlesticks/Untitled Kanban.md",
+    "Personal/2024-09-25.md",
+    "Candlesticks",
+    "Daily Routine Template.md",
+    "Personal/2024-09-24.md",
+    "Personal/2024-09-23.md",
+    "Personal/2024-09-21.md",
+    "Personal/2024-09-20.md",
+    "Personal/2024-08-20.md",
+    "Personal/2024-08-19.md",
+    "Personal/2024-08-18.md",
+    "Personal/2024-08-12.md",
+    "Personal/2024-08-10.md",
+    "Wake up 02 00-02 00.md",
+    "Personal/2024-06-11.md",
+    "Personal/2024-06-10.md",
+    "Personal/2024-06-08.md",
+    "Personal/2024-06-07.md",
+    "Personal/2024-03-19.md",
+    "Personal/2024-03-18.md",
+    "Personal/2024-03-16.md",
+    "Personal/2024-03-15.md",
+    "Personal/2024-03-14.md"
+  ]
+}
