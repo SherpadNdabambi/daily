@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Personal/Days/2024-09-26.md"
+                "file": "Personal/Days/2024-09-27.md"
               }
             }
           }
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal/Days/2024-09-26.md",
+            "file": "Personal/Days/2024-09-27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personal/Days/2024-09-26.md",
+            "file": "Personal/Days/2024-09-27.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personal/Days/2024-09-26.md"
+            "file": "Personal/Days/2024-09-27.md"
           }
         }
       }
@@ -139,8 +139,9 @@
   },
   "active": "956d8c1fa2cd81cc",
   "lastOpenFiles": [
-    "Personal/Daily Routine Template.md",
     "Personal/Days/2024-09-26.md",
+    "Personal/Days/2024-09-27.md",
+    "Personal/Daily Routine Template.md",
     "Personal/Days/2024-09-25.md",
     "Candlesticks/2024-09-25.md",
     "Candlesticks/Untitled Kanban.md",
@@ -164,7 +165,6 @@
     "Personal/2024-03-19.md",
     "Personal/2024-03-18.md",
     "Personal/2024-03-16.md",
-    "Personal/2024-03-15.md",
-    "Personal/2024-03-14.md"
+    "Personal/2024-03-15.md"
   ]
 }
