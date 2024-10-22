@@ -1,0 +1,97 @@
+---
+
+kanban-plugin: basic
+
+---
+
+## Weekday Routine
+
+- [ ] Wake up 03:30-03:30
+- [ ] Cook daily meals 03:30-04:30
+- [ ] Complete Duolingo lesson 04:30-04:40
+- [ ] Make bed 04:40-04:45
+- [ ] Sweep inside house 04:45-05:15
+- [ ] Work out 04:15-04:45
+- [ ] Bath 04:45-05:05
+- [ ] Get dressed 05:05-05:10
+- [ ] Eat breakfast 05:10-05:20
+- [ ] Wash dishes 05:20-05:30
+- [ ] Go to work 07:30-15:30
+- [x] ~~Return home 16:30-19:00~~
+- [ ] ~~Bath 19:00-19:15~~
+- [ ] Cook supper 16:55-17:55
+- [ ] Eat supper 17:55-18:15
+- [ ] Wash dishes 18:15-18:25
+- [ ] Study 18:25-22:25
+- [ ] Brush teeth 22:25-22:30
+- [ ] Go to bed 21:30-03:30
+
+
+## Saturday Routine
+
+- [ ] Wake up 02:00-02:00
+- [ ] Make bed 02:00-02:05
+- [ ] Work from home 02:05-04:25
+- [ ] Sweep inside house 04:25-04:55
+- [ ] Cook breakfast 04:55-05:05
+- [ ] Eat breakfast 05:05-05:25
+- [ ] Get dressed 05:25-05:30
+- [ ] Go to work 05:30-07:00
+- [ ] Return home 12:00-14:30
+- [ ] Cook lunch 14:30-15:40
+- [ ] Eat lunch 15:00-15:30
+- [ ] Wash laundry 15:30-17:30
+- [ ] Sweep inside house 17:30-18:00
+- [ ] Mop floors 18:00-18:30
+- [ ] Bath 18:30-19:00
+- [ ] Clean bathroom 19:00-19:25
+- [ ] Eat supper 19:25-19:55
+- [ ] Brush teeth 19:55-20:05
+- [ ] Work from home 20:05-
+- [ ] Go to bed
+
+
+## Sunday Routine
+
+- [ ] Wake up
+- [ ] Make bed
+- [ ] Sweep inside house
+- [ ] Cook breakfast
+- [ ] Eat breakfast
+- [ ] Bath
+- [ ] Clean bathroom
+- [ ] Get dressed
+- [ ] Go to church
+- [ ] Return home
+- [ ] Cook lunch
+- [ ] Eat lunch
+- [ ] Wash dishes
+- [ ] Go for supper
+- [ ] Brush teeth
+- [ ] Go to bed 20:00-02:00
+
+
+## Daily budget
+
+
+
+## Things to do
+
+- [ ] Read emails
+- [ ] Write monthly budget
+- [ ] Download web design course
+- [ ] Download music
+- [ ] Download series
+- [ ] Download FIFA
+- [ ] Download FIFA Kits
+- [ ] Update myFlix data
+- [ ] Restore Windows
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic","show-checkboxes":true,"hide-date-in-title":true,"link-date-to-daily-note":false}
+```
+%%
