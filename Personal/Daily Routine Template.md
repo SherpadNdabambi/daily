@@ -6,25 +6,25 @@ kanban-plugin: basic
 
 ## Weekday Routine
 
-- [ ] Wake up 03:30-03:30
-- [ ] Cook daily meals 03:30-04:30
-- [ ] Complete Duolingo lesson 04:30-04:40
-- [ ] Make bed 04:40-04:45
-- [ ] Sweep inside house 04:45-05:15
-- [ ] Work out 04:15-04:45
-- [ ] Bath 04:45-05:05
-- [ ] Get dressed 05:05-05:10
-- [ ] Eat breakfast 05:10-05:20
-- [ ] Wash dishes 05:20-05:30
-- [ ] Go to work 07:30-15:30
-- [x] ~~Return home 16:30-19:00~~
+- [ ] Wake up 06:35-06:35
+- [ ] Make bed 04:35-04:40
+- [ ] Sweep inside house 04:40-05:10
+- [ ] Work out 05:10-05:40
+- [ ] Bath 05:40-05:10
+- [ ] Get dressed 05:10-05:15
+- [ ] Cook cereal 05:15-05:45
+- [ ] Eat cereal 05:45-05:55
+- [ ] Wash dishes 05:55-06:05
+- [ ] Work from home 07:30-15:30
+- [ ] ~~Return home 16:30-19:00~~
 - [ ] ~~Bath 19:00-19:15~~
 - [ ] Cook supper 16:55-17:55
 - [ ] Eat supper 17:55-18:15
 - [ ] Wash dishes 18:15-18:25
-- [ ] Study 18:25-22:25
-- [ ] Brush teeth 22:25-22:30
-- [ ] Go to bed 21:30-03:30
+- [ ] Work from home 19:00-22:25
+- [ ] Complete Duolingo lessons 0:00-0:30
+- [ ] Brush teeth 0:30-0:35
+- [ ] Go to bed 0:35-06:35
 
 
 ## Saturday Routine
@@ -78,14 +78,12 @@ kanban-plugin: basic
 ## Things to do
 
 - [ ] Read emails
-- [ ] Write monthly budget
-- [ ] Download web design course
-- [ ] Download music
-- [ ] Download series
-- [ ] Download FIFA
-- [ ] Download FIFA Kits
 - [ ] Update myFlix data
-- [ ] Restore Windows
+- [ ] Google wade_fx_setups
+- [ ] Download offline zombie fps
+- [ ] Download shaka ilembe e03
+- [ ] Commit Gaga notes
+- [ ] Commit Readr on Gaga
 
 
 

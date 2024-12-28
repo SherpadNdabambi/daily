@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c2078f1aa8243408",
+        "id": "f6897480cda7d4e4",
         "type": "tabs",
         "children": [
           {
-            "id": "956d8c1fa2cd81cc",
+            "id": "1eca8df92a9d66d9",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Personal/Days/2024-09-27.md"
-              }
+                "file": "Personal/Days/2024-12-16.md"
+              },
+              "icon": "blocks",
+              "title": "2024-12-16"
             }
           }
         ]
@@ -38,7 +40,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -49,7 +53,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -57,7 +63,9 @@
         "type": "leaf",
         "state": {
           "type": "starred",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -65,7 +73,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -75,7 +85,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       }
     ],
@@ -91,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal/Days/2024-09-27.md",
+            "file": "Personal/Days/2024-12-06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,7 +111,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": false
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -108,10 +122,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personal/Days/2024-09-27.md",
+            "file": "Personal/Days/2024-12-06.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -120,8 +136,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personal/Days/2024-09-27.md"
-          }
+            "file": "Personal/Days/2024-12-06.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -137,34 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "956d8c1fa2cd81cc",
+  "active": "1eca8df92a9d66d9",
   "lastOpenFiles": [
-    "Personal/Days/2024-09-26.md",
-    "Personal/Days/2024-09-27.md",
     "Personal/Daily Routine Template.md",
-    "Personal/Days/2024-09-25.md",
-    "Candlesticks/2024-09-25.md",
-    "Candlesticks/Untitled Kanban.md",
-    "Personal/2024-09-25.md",
-    "Candlesticks",
-    "Daily Routine Template.md",
-    "Personal/2024-09-24.md",
-    "Personal/2024-09-23.md",
-    "Personal/2024-09-21.md",
-    "Personal/2024-09-20.md",
-    "Personal/2024-08-20.md",
-    "Personal/2024-08-19.md",
-    "Personal/2024-08-18.md",
-    "Personal/2024-08-12.md",
-    "Personal/2024-08-10.md",
-    "Wake up 02 00-02 00.md",
-    "Personal/2024-06-11.md",
-    "Personal/2024-06-10.md",
-    "Personal/2024-06-08.md",
-    "Personal/2024-06-07.md",
-    "Personal/2024-03-19.md",
-    "Personal/2024-03-18.md",
-    "Personal/2024-03-16.md",
-    "Personal/2024-03-15.md"
+    "Personal/Days/2024-12-16.md",
+    "Personal/Days/2024-12-10.md",
+    "Personal/Days/2024-12-09.md",
+    "Personal/Days/2024-12-07.md",
+    "Personal/Days/2024-12-06.md",
+    "Personal/Days/2024-12-05.md",
+    "Personal/Days/2024-12-04.md",
+    "Personal/Days/2024-12-02.md",
+    "Personal/Days/2024-11-29.md",
+    "Personal/Days/2024-11-28.md",
+    "Personal/Days/2024-11-27.md",
+    "Personal/Days/2024-11-21.md",
+    "Personal/Days/2024-11-19.md",
+    "Personal/Days/2024-11-18.md",
+    "Personal/Days/2024-11-15.md",
+    "Personal/Days/2024-11-14.md",
+    "Eat cereal 08 24-08 34.md",
+    "Personal/Days/2024-11-13.md",
+    "Personal/Days/2024-10-24.md",
+    "Personal/Days/2024-10-15.md",
+    "Personal/Days/2024-10-14.md",
+    "Personal/Days/2024-10-13.md",
+    "Personal/Days/2024-10-12.md",
+    "Personal/Days/2024-10-11.md",
+    "Personal/Days/2024-10-10.md",
+    "Candlesticks"
   ]
 }
