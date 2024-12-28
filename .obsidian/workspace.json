@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "04105962670bf983",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa294cfc97125b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f01bf60827df5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Days/2024-10-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d903df9786078a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "affe1165af04cc5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c886acae37392055",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd67c145ae3d3b5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d87ea044ded1011f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0c7c8fb6aee0b5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b703055ec182f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484682117b9c616a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Days/2024-10-06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4d603905ce90a5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Days/2024-10-06.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60c34b0173d9419c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "446080c6cc191196",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Days/2024-10-06.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "36f01bf60827df5d",
+  "lastOpenFiles": [
+    "Personal/Days/2024-10-01.md",
+    "Personal/Days/2024-10-06.md",
+    "Personal/Days/2024-09-26.md",
+    "Candlesticks/Days/2024-09-26.md",
+    "Candlesticks/Days/2024-09-25.md",
+    "Personal/Daily Routine Template.md"
+  ]
+}
